@@ -26,5 +26,5 @@ while start != "":
 print ('Other Examples: ')
 print (word[:-1])
 print (word[-1:])
-#none is pythons way of representing nothing,
+# none is pythons way of representing nothing,
 # [:] is used for slicing shorthand, note you don't need to fill both sides of the bracket

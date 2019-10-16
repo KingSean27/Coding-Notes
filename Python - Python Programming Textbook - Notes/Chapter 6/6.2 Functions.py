@@ -7,8 +7,8 @@ def capitalize (word):
     print (word)
 
 
-word = str(input("Enter Word: "))
-capitalize (word)
+example = str(input("Enter Word: "))
+capitalize (example)
 
 
 # No variables created in a function can be accessed outside the function, this is why the return feature is useful
@@ -19,8 +19,8 @@ def check(number):
     else:
         return "big"
     
-number = int(input("Enter number: "))
-check (number)
+example2 = int(input("Enter number: "))
+check (example2)
 
 if check(number) == "small" :
     print(number, "is smaller than 27")

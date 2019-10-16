@@ -1,6 +1,6 @@
 
-# be aware that multiple variables can refer to the same thing in python and by chaging it for one you change it for all
-# we can avoid this by splicing the list 
+# be aware that multiple variables can refer to the same thing in python and by changing it for one you change it for
+# all. we can avoid this by splicing the list
 
 mike = ["khakis", "dress shirt", "jacket"]
 honey = mike

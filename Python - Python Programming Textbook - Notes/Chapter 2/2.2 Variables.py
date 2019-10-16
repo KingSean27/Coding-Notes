@@ -12,7 +12,7 @@ print("Hi,", name)
 
 
 # Useful to put at the end of a program
-# input("\n\nPress any key to exit.")
+input("\n\nPress any key to exit.")
 
 
 

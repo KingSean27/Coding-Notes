@@ -1,7 +1,8 @@
-# every instance method, that every object of class has must have a special parameter self by definition, otherwise you will get an error
+# every instance method, that every object of class has must have a special parameter self by definition, otherwise
+# you will get an error
 # the first piece of code is the constructor method, aso called the initialisation method or init
 # init is specially recognised method name, as it is a constructor it will be called by any newly created critter object
-# it is useful to have as it sets the default varibales for objects when they are created 
+# it is useful to have as it sets the default variables for objects when they are created
 
 
 

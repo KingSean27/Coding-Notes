@@ -24,5 +24,5 @@ print("variety -", s["variety"])
 
 s.close()
 
-# to store more compelx information we should use databases, there are many modules which help with this
+# to store more complex information we should use databases, there are many modules which help with this
 

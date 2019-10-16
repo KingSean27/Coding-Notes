@@ -5,6 +5,7 @@ message = input("Enter a message: ")
 new_message = ""
 VOWELS = "aeiou"
 
+# print() prints a blank line
 print()
 for letter in message:
     if letter.lower() not in VOWELS:

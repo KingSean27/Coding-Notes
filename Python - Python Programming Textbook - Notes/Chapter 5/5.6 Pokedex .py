@@ -15,6 +15,8 @@ def check():
 print("Hello welcome to your pokedex, press 0 to exit")
 pokedex = { "4":"Charmander", "15":"Beedrill", "97":"Hypno", "109":"Koffing", "145":"Zapdos", "150":"Mewtwo" }
 x = 0
+
+
 num = str(input("What is your pokemon's number: "))
 
 

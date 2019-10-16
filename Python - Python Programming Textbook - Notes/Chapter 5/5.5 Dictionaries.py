@@ -6,7 +6,7 @@
 
 
 geek = {"404": "From the web error message 404, meaning page not found.",
-        "Googling": "Searching the Internet for background information on a person.",
+        "Googling": "Searching the Internet for information",
         "Keyboard Plaque" : "The collection of debris found in computer keyboards.",
         "Link Rot" : "The process by which web page links become obsolete.",}
 
