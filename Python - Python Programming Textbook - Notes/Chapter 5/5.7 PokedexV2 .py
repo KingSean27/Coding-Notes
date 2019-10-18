@@ -23,16 +23,20 @@ def check():
     except (TypeError, ValueError):
         print("That is not a valid integer!")
 
-# program start
-close = 0
-print("Hello welcome to your Kanto Pokedex, press 0 to exit")
-pokedex = {}
-loadpokedex()
+def main():
+    global pokedex
+    global close
+    close = 0
+    pokedex = {}
+    loadpokedex()
+    print("Hello welcome to your Kanto Pokedex, press 0 to exit")
 
-while close == 0:
-    check()
-    continue
-else:
-    print("Pokedex closing down")
-    
+    while close == 0:
+        check()
+        continue
+    else:
+        print("Pokedex closing down")
+
+if __name__ == '__main__': main()
+
 # small test program, written to learn about dictionaries
