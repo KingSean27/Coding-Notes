@@ -18,7 +18,7 @@ def main():
             word = word.replace('o', '0')
             word = word.replace('l','1')
             word = word.replace('e', '3')
-            word = word.replace('a', '4')
+            word = word.replace('a', '444')
             word = word.replace('t', '7')
             
             leetword = "({}) ".format(word)
