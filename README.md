@@ -1,2 +1,3 @@
 # Coding-Notes
-Sean Le Cornu - Coding Notes &amp; Textbook Q's
+Sean Le Cornu - Coding Notes &amp; Textbook Q's 
+Covering Python
